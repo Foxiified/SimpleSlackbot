@@ -38,6 +38,6 @@ $ node index.js
 
 The bot should now be running in Slack\.
 
-Made with **Node\.js, Slack Bolt, and Openai (Openrouter) **\.
+Made with Node.js, Slack Bolt, and Openai (Openrouter).
 
 Made by Foxiified.
